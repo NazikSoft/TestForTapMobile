@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">TestForTapMobile</string>
+    <string name="app_name">Youtube Parser</string>
+    <string name="hint_for_search_field">Search</string>
 </resources>
